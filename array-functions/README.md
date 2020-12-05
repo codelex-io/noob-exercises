@@ -1,16 +1,21 @@
 # Array Functions
 
-**⚠️ NO LOOPS ALLOWED ⚠️** - everything must be done by using array functions
+**⚠️ NO LOOPS ALLOWED - everything must be solved by using array functions**
 
 ## Exercise #1
 
 Input: Array of elements
 
-["h","o","l","a"]
+```javascript
+["h", "o", "l", "a"];
+```
 
 Output: String with comma delimited elements of the array in the same order.
 
-"h,o,l,a"
+```javascript
+"h,o,l,a";
+
+```
 
 ## Exercise #2
 
