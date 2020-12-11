@@ -1,4 +1,4 @@
-# Easy-medium Exercises
+# Easy Exercises
 
 Exercises in this directory are programming challenges.
 

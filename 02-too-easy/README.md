@@ -1,4 +1,4 @@
-# Warm Up Exercises
+# Too Easy Exercises
 
 Exercises in this directory will introduce you to the most common string, array and object methods used by javascript programmers.
 
