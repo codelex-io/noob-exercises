@@ -1,9 +1,9 @@
-import * as keypress from "keypress";
+import * as readline from "readline";
 import * as chalk from "chalk";
 import { Direction, FRAMES_PER_SECOND, draw } from "./game";
 
-keypress(process.stdin);
 process.stdin.setRawMode(true);
+readline.emitKeypressEvents(process.stdin);
 
 const start = (draw: (direction: Direction) => void) => {
   // prompts is blocking ctrl+c event, so let's listen for it manually
