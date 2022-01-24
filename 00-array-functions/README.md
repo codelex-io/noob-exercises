@@ -1,6 +1,31 @@
 # Array Functions
 
+As you can see there's no src/ folder and no .ts files for these exercises.
+You will need some place to store the files for each exercise and to execute them.
+For that you may find [this project template](https://github.com/codelex-io/noob-exercises/tree/main/00-array-functions "Typescript console app template") useful.
+
 **⚠️ NO LOOPS ALLOWED - everything must be solved by using array functions**
+
+These resources will help you fly through the exercises in no time:
+
+  [Array @developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#)
+  
+  [Array methods @javascript.info](https://javascript.info/array-methods)
+  
+  [Reduce animated @reduce.surge.sh](http://reduce.surge.sh/)
+  
+  [A Gentle Introduction to Javascript’s Reduce Method @khanacademy.org](https://blog.khanacademy.org/lets-reduce-a-gentle-introduction-to-javascripts-reduce-method/)
+  
+  [JavaScript Higher Order Functions & Arrays @youtube.com/TraversyMedia](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+  
+  [Array Functions: map() and fill() - Topics of JavaScript/ES6 @youtube.com/TheCodingTrain](https://www.youtube.com/watch?v=EnYlhbpzhU4)
+  
+  [Array Methods Explained: Filter vs Map vs Reduce vs Foreach @codeburst.io](https://codeburst.io/array-methods-explained-filter-vs-map-vs-reduce-vs-foreach-ea3127c6d319)
+  
+  [Array.map Explained in 4 Levels of Difficulty @yazeedb.com](https://codeburst.io/array-methods-explained-filter-vs-map-vs-reduce-vs-foreach-ea3127c6d319)
+
+
+**⚠️ Don't forget - we're still learning Typescript so it should be used here as well**
 
 ## Exercise #1
 
