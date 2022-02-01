@@ -2,7 +2,7 @@
 
 As you can see there's no src/ folder and no .ts files for these exercises.
 You will need some place to store the files for each exercise and to execute them.
-For that you may find [this project template](https://github.com/codelex-io/noob-exercises/tree/main/00-array-functions "Typescript console app template") useful.
+For that you may find [this project template](https://github.com/codelex-io/ts-console-app-template "Typescript console app template") useful.
 
 **⚠️ NO LOOPS ALLOWED - everything must be solved by using array functions**
 
